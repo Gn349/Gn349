@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <!--
+
 **Gn349/Gn349** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me @ gn349@drexel.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I aspire to be a medical librarian!
+
 -->
