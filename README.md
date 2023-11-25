@@ -1,4 +1,4 @@
-*** Hi there! 👋***
+**Hi there! 👋**
 
 - 🔭 I’m currently working as a Veterinacy Technician and a Library Assistant.
 - 🌱 I’m currently learning about Digital Stewardship, Metadata, and Resources for Children.
