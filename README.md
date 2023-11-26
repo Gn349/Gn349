@@ -6,3 +6,4 @@
 - 📫 How to reach me: email me @ gn349@drexel.edu
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I aspire to be a medical librarian!
+
