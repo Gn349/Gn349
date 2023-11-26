@@ -7,3 +7,4 @@
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I aspire to be a medical librarian!
 
+Click [here] (https://github.com/digipres/awesome-digital-preservation) to see my chosen topic!
